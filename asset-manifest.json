@@ -1,16 +1,18 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.5c9bcb76.css",
-    "main.js": "/Portfolio/static/js/main.c0015398.js",
+    "main.css": "/Portfolio/static/css/main.475347be.css",
+    "main.js": "/Portfolio/static/js/main.d885b90d.js",
     "static/media/grad_pic.jpg": "/Portfolio/static/media/grad_pic.9634d6fd78c13bf8587b.jpg",
+    "static/media/education.png": "/Portfolio/static/media/education.6dabf58c14fbf07a39ff.png",
     "static/media/github.png": "/Portfolio/static/media/github.05f6c17b8cd04c28456f.png",
     "static/media/email.png": "/Portfolio/static/media/email.8cbc560625048ed67ec8.png",
+    "static/media/internship.png": "/Portfolio/static/media/internship.e3ebd1335a3413ce1b93.png",
     "index.html": "/Portfolio/index.html",
-    "main.5c9bcb76.css.map": "/Portfolio/static/css/main.5c9bcb76.css.map",
-    "main.c0015398.js.map": "/Portfolio/static/js/main.c0015398.js.map"
+    "main.475347be.css.map": "/Portfolio/static/css/main.475347be.css.map",
+    "main.d885b90d.js.map": "/Portfolio/static/js/main.d885b90d.js.map"
   },
   "entrypoints": [
-    "static/css/main.5c9bcb76.css",
-    "static/js/main.c0015398.js"
+    "static/css/main.475347be.css",
+    "static/js/main.d885b90d.js"
   ]
 }
