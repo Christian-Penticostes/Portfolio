@@ -26,3 +26,18 @@
     background-position: 0% 50%;
   }
 }
+
+.animated-gradient-border {
+  background: linear-gradient(
+    270deg,
+    #ff6ec4,
+    #7873f5,
+    #4ade80,
+    #facc15,
+    #f87171,
+    #3b82f6,
+    #a855f7
+  );
+  background-size: 1400% 1400%;
+  animation: gradientMove 10s ease infinite;
+}

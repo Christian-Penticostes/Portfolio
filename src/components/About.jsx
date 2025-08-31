@@ -7,7 +7,7 @@ import internshipW from '../assets/internship-w.png';
 
 const About = () => {
   return (
-    <div id="about" className="w-[80%] mx-auto mb-10 max-lg:mt-20 max-md:mt-15 max-sm:mt-10">
+    <div id="about" className="w-[80%] mx-auto mb-20 max-lg:mt-20 max-md:mt-15 max-sm:mt-10">
         <div className="flex justify-center">
             <div className="w-full">
                 <p className="font-bold text-xl dark:text-[#fafafa] ml-2" style={{ fontFamily: '"Poppins"' }}>Backgrounds</p>
