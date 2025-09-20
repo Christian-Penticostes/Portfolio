@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.076122e3.css",
-    "main.js": "/Portfolio/static/js/main.8528f64b.js",
+    "main.css": "/Portfolio/static/css/main.c4ed7e06.css",
+    "main.js": "/Portfolio/static/js/main.64270a89.js",
     "static/media/grad_pic.jpg": "/Portfolio/static/media/grad_pic.9634d6fd78c13bf8587b.jpg",
     "static/media/canva.png": "/Portfolio/static/media/canva.c7660f1ea0e72776e4e8.png",
     "static/media/wordpress system.png": "/Portfolio/static/media/wordpress system.cf41bf33cccf18a02494.png",
@@ -56,11 +56,11 @@
     "static/media/bootstrap.png": "/Portfolio/static/media/bootstrap.92e4b91593e2b8eab8c4.png",
     "static/media/mssql.png": "/Portfolio/static/media/mssql.c801ac58632d234c546c.png",
     "index.html": "/Portfolio/index.html",
-    "main.076122e3.css.map": "/Portfolio/static/css/main.076122e3.css.map",
-    "main.8528f64b.js.map": "/Portfolio/static/js/main.8528f64b.js.map"
+    "main.c4ed7e06.css.map": "/Portfolio/static/css/main.c4ed7e06.css.map",
+    "main.64270a89.js.map": "/Portfolio/static/js/main.64270a89.js.map"
   },
   "entrypoints": [
-    "static/css/main.076122e3.css",
-    "static/js/main.8528f64b.js"
+    "static/css/main.c4ed7e06.css",
+    "static/js/main.64270a89.js"
   ]
 }
