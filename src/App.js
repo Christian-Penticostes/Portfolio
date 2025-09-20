@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from 'react';
-import { BrowserRouter as Router, Routes, Route, useLocation, useNavigate } from 'react-router-dom';
+import { HashRouter  as Router, Routes, Route, useLocation, useNavigate } from 'react-router-dom';
 import Navbar from './components/Navbar';
 import Home from './pages/Home';
 import Projects from './pages/Projects';
@@ -39,7 +39,7 @@ const BackToTop = () => {
         e.target.style.transform = 'scale(1)';
       }}
     >
-      <img src={up} alt="Back to top" style={{ width: '22px', height: '22px', filter: 'brightness(0) invert(1)',}}/>
+      <img src={up} alt="Back to top" style={{ width: '22px', height: '22px'}}/>
     </button>
   );
 };
