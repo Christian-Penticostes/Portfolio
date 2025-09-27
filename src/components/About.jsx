@@ -22,7 +22,7 @@ const About = () => {
                                     <img src={educationW} alt="Education" className="hidden dark:block w-7 h-7" />
                                     <p className="font-semibold text-sm ml-2 max-sm:ml-2" style={{ fontFamily: '"Poppins"' }}>Cavite State University - Imus</p>
                                 </div>
-                                <p className="text-sm ml-auto max-sm:ml-9 max-sm:mb-1" style={{ fontFamily: '"Poppins"' }}>March 2025 - July 2025</p>
+                                <p className="text-sm ml-auto max-sm:ml-9 max-sm:mb-1" style={{ fontFamily: '"Poppins"' }}>Sept. 2021 - Sept. 2025</p>
                             </div>
                             <p className='ml-[36px] text-sm' style={{ fontFamily: '"Poppins"' }}>Bachelor of Science in Information Technology</p>
                             <p className='ml-[36px] text-sm mt-[5px]' style={{ fontFamily: '"Poppins"' }}>Latin Honor: GPA 1.46 Cum Laude</p>
